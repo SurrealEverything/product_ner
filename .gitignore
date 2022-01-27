@@ -2,3 +2,7 @@
 *.csv#
 .ipynb_checkpoints/
 *.pdf
+resources/
+products.txt
+ner-fast-finetune/
+column_product_ds/
