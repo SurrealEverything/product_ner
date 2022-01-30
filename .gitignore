@@ -6,3 +6,5 @@ resources/
 products.txt
 ner-fast-finetune/
 column_product_ds/
+ner-fast-finetune-final/
+ner-fast-finetuned_model.pt
